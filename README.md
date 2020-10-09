@@ -1,6 +1,6 @@
 # learnin_stuff
 
-This is how we learn things!
+This is how we learn things! Eventually.
 
 ## Things to learn
 
