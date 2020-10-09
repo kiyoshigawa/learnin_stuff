@@ -9,6 +9,7 @@ This is how we learn things! How should we learn them? Through practice! It work
 - How to merge
 - How to break things
 - How to fix the broken things after they are broken
+- What is Fetch? How is it related to Pull?
 
 
 ## This is a story about Goats
