@@ -7,3 +7,8 @@ This is how we learn things! How should we learn them? Through practice! It work
 - How to pull
 - How to push
 - How to merge
+
+
+## This is a story about Goats
+
+One day, there was a Goat from the Forest that loved cheese.
