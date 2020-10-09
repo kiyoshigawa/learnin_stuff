@@ -7,3 +7,5 @@ This is how we learn things! How should we learn them? Through practice! It work
 - How to pull
 - How to push
 - How to merge
+- How to break things
+- How to fix the broken things after they are broken
