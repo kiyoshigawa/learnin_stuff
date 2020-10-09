@@ -11,4 +11,4 @@ This is how we learn things! How should we learn them? Through practice! It work
 
 ## This is a story about Goats
 
-One day, there was a Goat from the Forest that loved cheese.
+One day, there was a Goat from the Forest that loved cheese. This goat was named Gruff, and he was covered in moss. Brie was his favorite kind of cheese, and he loved to eat it on a nice crisp chunk of tree bark.
