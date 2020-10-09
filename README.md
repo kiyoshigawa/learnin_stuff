@@ -1,6 +1,6 @@
 # learnin_stuff
 
-This is how we learn things!
+This is how we learn things! How should we learn them? Through practice! It works!
 
 ## Things to learn
 
