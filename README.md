@@ -14,3 +14,11 @@ This is how we learn things! Eventually. How should we learn them? Through pract
 ## This is a story about Goats
 
 One day, there was a Goat from the Forest that loved cheese.
+
+
+
+##  Goat Attack Powers
+
+- Endless Stomach
+- Acid Spit
+- Spirit Breaking Laughter
