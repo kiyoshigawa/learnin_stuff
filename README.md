@@ -6,3 +6,4 @@ This is how we learn things!
 
 - How to pull
 - How to push
+- How to merge
