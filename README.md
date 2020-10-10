@@ -25,3 +25,8 @@ One day, there was a Goat from the Forest that loved cheese. This goat was named
 - Endless Stomach
 - Acid Spit
 - Spirit Breaking Laughter
+
+
+### Something branchy
+- Solar flares
+- Distopian setting for canibalism
