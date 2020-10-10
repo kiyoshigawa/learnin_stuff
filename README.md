@@ -11,6 +11,8 @@ This is how we learn things! Eventually. How should we learn them? Through pract
 - How to fix the broken things after they are broken
 - What is Fetch? How is it related to Pull?
 
+## I am adding a new section
+This section exists to add complexity to this document, so that we may all learn. It is more topical than goats, but much less entertaining.
 
 ## This is a story about Goats
 
