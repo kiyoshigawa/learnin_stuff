@@ -9,7 +9,6 @@ This is how we learn things! Eventually. How should we learn them? Through pract
 - How to merge
 - How to break things
 - How to fix the broken things after they are broken
-- What is Fetch? How is it related to Pull?
 - How to branch
 - How to unbranch
 - Why to branch
